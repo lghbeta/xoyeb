@@ -11,7 +11,7 @@ Flyio：https://owo.misaka.rest/flyio-xray/
 关于本脚本加密sh文件的说明：由于某容器云已识别本脚本，故不得不加密项目的sh文件代码
 
 ## 部署步骤
-
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/hongchenvpn/KOXray)
 <details>
     <summary>Fly.io 容器云</summary>
 1. 使用以下命令安装Flyctl工具
