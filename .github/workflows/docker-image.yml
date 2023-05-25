@@ -9,6 +9,6 @@ jobs:
       - name: Building Docker Image
         uses: elgohr/Publish-Docker-Github-Action@v5
         with:
-          name: aniven/koyeb
+          name: aniven/xoyeb
           username: '${{ secrets.DOCKERHUB_USERNAME }}'
           password: '${{ secrets.DOCKERHUB_TOKEN }}'
